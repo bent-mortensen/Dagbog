@@ -6,3 +6,5 @@ Jeg brugte dagen på at lave class diagram i draw.io samt at bygge kode struktur
 
 ## Onsdag 15-08-2018
 
+Jeg fortsætter med at oversætte python koden og bygger videre på strukturen efter bedst evne.  
+Jeg har i dag oprettet min dagbog på github. Jeg skal huske at have overført resten af min dagbog fra word over til min github dagbog.
