@@ -1,6 +1,6 @@
 # Dagbog
 
-## huske at merge word dokument!!
+## husk at merge word dokument!!
 
 ## Tirsdag 14-08-2018
 
