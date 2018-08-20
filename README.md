@@ -23,3 +23,5 @@ jeg fik også enheden til at lave en webrequest til internettet. win10iot(.net c
 ## Fredag 17-08-2018
 
 Daily scrum bliver ikke afholdt grundet firmaets Squads(vidensdeling på tværs af firmaet)
+Jeg har i dag arbejdet med at få en knap til at virke på raspberry pi 3, hvilket er lidt svært at få viklet hovedet omkring, da der ikke er nogen gode kode eksempler på nettet.
+Jeg fortsætter mandag.
