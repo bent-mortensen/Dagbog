@@ -34,4 +34,8 @@ Jeg er gået igang med at læse om at implementere gps modulet på raspberry pi.
 
 ## Tirsdag 21-08-2018
 
-GPS i dag.
+Ingen daily scrum.
+GPS i dag. Vi er kommet til den konklusion at GPS modulet er skaddet siden det ikke kan få et fix. en hel dag brugt på at arbejde med kode der virker men som ikke kan læse data fra enheden. Jeg begynder at arbejde med afstandsmåleren.
+
+## Onsdag 22-08-2018
+
