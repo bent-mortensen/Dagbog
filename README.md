@@ -35,7 +35,10 @@ Jeg er gået igang med at læse om at implementere gps modulet på raspberry pi.
 ## Tirsdag 21-08-2018
 
 Ingen daily scrum.
-GPS i dag. Vi er kommet til den konklusion at GPS modulet er skaddet siden det ikke kan få et fix. en hel dag brugt på at arbejde med kode der virker men som ikke kan læse data fra enheden. Jeg begynder at arbejde med afstandsmåleren.
+GPS i dag. Vi er kommet til den konklusion at GPS modulet er skaddet siden det ikke kan få et fix. En hel dag brugt på at arbejde med kode der givetvis virker, men som ikke kan læse data fra enheden. Jeg begynder at arbejde med afstandsmåleren. det var virkeligt demotiverende at arbejde med. Jeg sluttede dagen af med at researche en ny kommunikation protocol til raspberry pi NarrowBand(NB).
 
 ## Onsdag 22-08-2018
+
+Ingen daily scrum.
+Starter dagen med fortsat at researche NB.
 
