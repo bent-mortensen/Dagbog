@@ -40,5 +40,13 @@ GPS i dag. Vi er kommet til den konklusion at GPS modulet er skaddet siden det i
 ## Onsdag 22-08-2018
 
 Ingen daily scrum.
-Starter dagen med fortsat at researche NB.
+Starter dagen med fortsat at researche narrowband. I min research fandt jeg et grovepi shield til plug & play sensorer. Jeg var til et møde, der havde til formål at diskutere og komme med forslag til, hvad foranalyse betyder og skal indeholde i "ready to go" iot. 
+Møde DRTL ”udfoldningen” af Analysefasen.
+
+## Torsdag 23-08-2018
+
+I dag Torsdag har jeg arbejdet på at skrive python koden om til C#. det indebærer for mig at have de forskellige sensorer oppe at kører og en god logik bagved. jeg har arbejdet på at få lavet ordentlige classer og metoder, samt at lave en god dokumentation med kommentar i koden. 
+Jeg fik til opgave at lave en indkøbsliste til "Proof of Concept" barnet der blev affødt af mødet onsdag. Den indeholdte hardware relateret til raspberry pi og et arduino board til connectivity.
+
+## Fredag 24-08-2018
 
