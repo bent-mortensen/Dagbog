@@ -50,3 +50,7 @@ Jeg fik til opgave at lave en indkøbsliste til "Proof of Concept" barnet der bl
 
 ## Fredag 24-08-2018
 
+Jeg fandt ud af at fredag er en travl dag på kontoret, her i firmaet, folk kommer hjem fra de forskellige projekter de har gang i for at lave vidensdeling i de squads de nu har. det betyder at der er mange mennesker på kontoret og de taler alle sammen, så støjniveauet stiger betydeligt, hvilket gør det svært at koncenterer sig om arbejdet. Thomas fik lavet en virkende prototype til slettestrand, og vi testede den sidst på dagen.
+
+## Mandag 28-08-2018
+
