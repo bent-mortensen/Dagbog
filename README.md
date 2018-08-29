@@ -52,5 +52,16 @@ Jeg fik til opgave at lave en indkøbsliste til "Proof of Concept" barnet der bl
 
 Jeg fandt ud af at fredag er en travl dag på kontoret, her i firmaet, folk kommer hjem fra de forskellige projekter de har gang i for at lave vidensdeling i de squads de nu har. det betyder at der er mange mennesker på kontoret og de taler alle sammen, så støjniveauet stiger betydeligt, hvilket gør det svært at koncenterer sig om arbejdet. Thomas fik lavet en virkende prototype til slettestrand, og vi testede den sidst på dagen.
 
-## Mandag 28-08-2018
+## Mandag 27-08-2018
 
+Hvad lavede jeg mandag?
+Jeg fik bestilt varer til Proof of Concept, som bliver vores v3 version, som at der skal arbejdes på.
+Indtil nu har det meste af arbejdet været at finde ud af om hardwaren kan bruges til løsningen og for mig at lærer hvad der er ind og ud i forhold til dotnet core
+
+## Tirsdag 28-08-2018
+
+Jeg var til Morgensang og blev derfor lidt forsinket på praktik pladsen. Mødte ca. kl. 11.30, hvor jeg fik en lille briefing på sprint retrospektive og sprint planning. jeg fik uploadet mit seneste projekt til github og fik skrevet en smule dokumentation til koden.
+
+## Onsdag 29-08-2018
+
+I dag skal jeg til at lave dokumentationen færdig til C# v2. 
