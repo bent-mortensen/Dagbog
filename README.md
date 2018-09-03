@@ -64,4 +64,17 @@ Jeg var til Morgensang og blev derfor lidt forsinket på praktik pladsen. Mødte
 
 ## Onsdag 29-08-2018
 
-I dag skal jeg til at lave dokumentationen færdig til C# v2. 
+I dag skal jeg til at lave dokumentationen færdig til C# v2. Dagen gik også med at undesøge Micro Python, og hvordan det fungere.
+
+## Torsdag 30-08-2018
+
+Strategidage i Slettestrand. k|a 2020 strategi, samt fest om aftenen.
+
+## Fredag 31-08-2018
+
+Strategidage i Slettestrand. Go gammeldags rystesammentur eller med et andet ord teambuilding. fed tur.
+
+## Mandag 03-09-2018
+
+Daily standup blev afholdt i dag. 
+Jeg venter stadig på varer til PoC, de skulle gerne komme i dag eller i morgen. 
