@@ -78,3 +78,5 @@ Strategidage i Slettestrand. Go gammeldags rystesammentur eller med et andet ord
 
 Daily standup blev afholdt i dag. 
 Jeg venter stadig på varer til PoC, de skulle gerne komme i dag eller i morgen. 
+
+Vigtig perspektiv: Man skal ikke forvente at komme ud i et firma og skrive kode i 37 timer om ugen. man skal kunne udvikle og designe kode, samt være mere orienteret omkring salg og forretning
