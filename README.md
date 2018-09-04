@@ -90,5 +90,7 @@ Bestilte PSU og SD kort fra Proshop, de skulle gerne ankomme imorgen.
 ## Tirsdag 04-09-2018
 
 Scrum møde blev afholdt i dag.
+Venter på at SD kort og PSU til RPI ankommer. Tingene ankom sidst på dagen. Næste gang skal jeg ikke regne med at komme igang på selve leveringsdagen, samt opsætningen af hardwaren også kommer til at tage noget tid. RPI boardet som blev bestilt er en raspberry pi B+ hvorimod den tidligere raspberry pi var en B v1.2. Fordi det er så nyt understøtter win10IoT ikke det nye board. 
 
-Jeg er stadig igang med at lave diagrammer over koden.
+Jeg er stadig igang med at lave diagrammer over koden. Jeg har læst op på hvordan jeg skal stykke kode sammen med GrovePi,således at når rpi kommer op at kører med win10iot, så er jeg klar til at skrive noget kode. Tiden bliver derfor udnyttet bedst muligt og der vil ikke gå lang tid, med at forstå sensorer/hardware nær så meget, som i starten af projektet/praktikperioden.
+
