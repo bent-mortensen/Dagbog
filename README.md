@@ -94,3 +94,10 @@ Venter på at SD kort og PSU til RPI ankommer. Tingene ankom sidst på dagen. N�
 
 Jeg er stadig igang med at lave diagrammer over koden. Jeg har læst op på hvordan jeg skal stykke kode sammen med GrovePi,således at når rpi kommer op at kører med win10iot, så er jeg klar til at skrive noget kode. Tiden bliver derfor udnyttet bedst muligt og der vil ikke gå lang tid, med at forstå sensorer/hardware nær så meget, som i starten af projektet/praktikperioden.
 
+## Onsdag 05-09-2018
+
+scrum møde blev afholdt
+Onsdag gik med at læse om I2C.
+
+## Torsdag 06-09-2018
+
