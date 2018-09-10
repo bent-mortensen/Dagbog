@@ -112,3 +112,11 @@ Jeg fik også hul igennem til I2C modulet, men jeg skal have arbejdet på at få
 Jeg fortsatte med at arbejde med I2C. Jeg er desværre blevet bremset af Visual Studio community edition, pga af en opdatering til denne version. Den seneste opdatering af VS community, har betydet at jeg ikke kan benytte debuggeren til at fejlfinde i min kode. 
 
 Alt dette afledte en god snak, med Thomas, om at man ikke altid bør kører med den seneste version af sit udvikler værktøj. Det er en god ide at kører med en buffer således at alle børnesygdomme er identificeret. pga af VS community 15.8.3 kan jeg ikke debugge, så jeg bliver nødtil at downgrade VS community til 15.7.6
+
+## Mandag 08-09-2018
+
+Mandagen er blevet brugt på at få visual studio til at fungere med en working toolchain debugger. jeg er nu kommet til den konklusion at jeg fint kan debugge steppe igennem koden på raspberry pi 3 boardet, men jeg kan ikke se values for forskellige properties eller typer, hvilket gør debuggeren yderst uproduktiv. Jeg kan dog lave min egen debug metode, som sender values til eventhubben hvor jeg så kan lytte på den og så få resultatet den vej igennem. fuck.
+
+## Tirsdag 09-09-2018
+
+IoT messe dag i Oddense. 
