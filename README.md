@@ -101,3 +101,14 @@ Onsdag gik med at læse om I2C.
 
 ## Torsdag 06-09-2018
 
+Scrum blev afholdt 
+
+Jeg fik samlet GrovePi PoC boardet. Men pga af min computer hoppede på et andet netværk, havde jeg lige pludselig ikke adgang til Azure Portalen, dvs. i browseren kunne jeg fint logge på og se min service (eventhub/IoT-HUB), men mit program til at læse fra Hubben, kunne ikke få forbindelse, så der gik desværre en par timer med at finde ud af hvorfor det lige pludselig ikke virkede mere. Jeg havde ikke ændret i koden og access keys og paths havde heller ikke ændret sig.
+
+Jeg fik også hul igennem til I2C modulet, men jeg skal have arbejdet på at få oversat det data jeg får ud til noget mere forståeligt.
+
+## Fredag 07-09-2018
+
+Jeg fortsatte med at arbejde med I2C. Jeg er desværre blevet bremset af Visual Studio community edition, pga af en opdatering til denne version. Den seneste opdatering af VS community, har betydet at jeg ikke kan benytte debuggeren til at fejlfinde i min kode. 
+
+Alt dette afledte en god snak, med Thomas, om at man ikke altid bør kører med den seneste version af sit udvikler værktøj. Det er en god ide at kører med en buffer således at alle børnesygdomme er identificeret. pga af VS community 15.8.3 kan jeg ikke debugge, så jeg bliver nødtil at downgrade VS community til 15.7.6
