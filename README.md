@@ -119,7 +119,7 @@ Mandagen er blevet brugt på at få visual studio til at fungere med en working 
 
 ## Tirsdag 11-09-2018
 
-Noter fra (Messe-Noter)[https://github.com/bent-mortensen/Dagbog/blob/master/Messe.md]
+Noter fra [Messe-Noter](https://github.com/bent-mortensen/Dagbog/blob/master/Messe.md)
 
 ## Onsdag 12-09-2018
 
