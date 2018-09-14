@@ -113,10 +113,26 @@ Jeg fortsatte med at arbejde med I2C. Jeg er desværre blevet bremset af Visual 
 
 Alt dette afledte en god snak, med Thomas, om at man ikke altid bør kører med den seneste version af sit udvikler værktøj. Det er en god ide at kører med en buffer således at alle børnesygdomme er identificeret. pga af VS community 15.8.3 kan jeg ikke debugge, så jeg bliver nødtil at downgrade VS community til 15.7.6
 
-## Mandag 08-09-2018
+## Mandag 10-09-2018
 
 Mandagen er blevet brugt på at få visual studio til at fungere med en working toolchain debugger. jeg er nu kommet til den konklusion at jeg fint kan debugge steppe igennem koden på raspberry pi 3 boardet, men jeg kan ikke se values for forskellige properties eller typer, hvilket gør debuggeren yderst uproduktiv. Jeg kan dog lave min egen debug metode, som sender values til eventhubben hvor jeg så kan lytte på den og så få resultatet den vej igennem. fuck.
 
-## Tirsdag 09-09-2018
+## Tirsdag 11-09-2018
 
-IoT messe dag i Oddense. 
+Noter fra (Messe)[]
+
+## Onsdag 12-09-2018
+
+Holdt et lille scrum møde i dag mellem Thomas og jeg. Jeg fik skrevet mine notater rene fra gårsdagens messe og sendt rundt til Jannik, Torben og Thomas. Jeg var med til et møde omkring maskot samme med Anton, Jannik og Thomas, her fik vi en snak omkring maskots behov for at udvikle deres forretning med smart tøj/IoT tøj. 
+
+## Torsdag 13-09-2018
+
+Scrummøde blev afholdt. 
+Jeg brugte meste af dagen på at få I2C protocollen op at kører. Meget af tiden gik med at forstå microsofts I2C controller class. Meget af tiden gik også med at forstå hvad der skulle skrives til TH02 sensoren, og resten af dagen gik med at prøve at få oversat de data jeg fik ud af TH02 sensoren. det blev ikke løst denne dag......
+
+## Fredag 14-09-2018
+
+Scrummøde blev afholdt
+Torben fandt et TH02 Python library på github, som jeg brugte udregninger fra til at converterer de data jeg fik ud. og det virker umiddelbart, og jeg siger umiddelbart da jeg ikke har nogen aktuel refrence data at kunne holde det op imod.
+
+Jeg er begyndt at Læse op på SI1145 I2C sensor til at måle lys.
