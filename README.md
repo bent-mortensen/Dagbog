@@ -136,3 +136,8 @@ Scrummøde blev afholdt
 Torben fandt et TH02 Python library på github, som jeg brugte udregninger fra til at converterer de data jeg fik ud. og det virker umiddelbart, og jeg siger umiddelbart da jeg ikke har nogen aktuel refrence data at kunne holde det op imod.
 
 Jeg er begyndt at Læse op på SI1145 I2C sensor til at måle lys.
+
+## Mandag 17-09-2018
+
+Scrum møde blev afholdt
+Jeg er begyndt at læse op på SI1145 sunlight sensoren til at måle synligt lys, ir og uv. Jeg har stadig 4 sensorer tilbage at implementere i C# kode. 
