@@ -127,7 +127,7 @@ Holdt et lille scrum møde i dag mellem Thomas og jeg. Jeg fik skrevet mine nota
 
 ## Torsdag 13-09-2018
 
-Scrummøde blev afholdt. 
+Scrum blev afholdt. 
 Jeg brugte meste af dagen på at få I2C protocollen op at kører. Meget af tiden gik med at forstå microsofts I2C controller class. Meget af tiden gik også med at forstå hvad der skulle skrives til TH02 sensoren, og resten af dagen gik med at prøve at få oversat de data jeg fik ud af TH02 sensoren. det blev ikke løst denne dag......
 
 ## Fredag 14-09-2018
@@ -141,3 +141,21 @@ Jeg er begyndt at Læse op på SI1145 I2C sensor til at måle lys.
 
 Scrum møde blev afholdt
 Jeg er begyndt at læse op på SI1145 sunlight sensoren til at måle synligt lys, ir og uv. Jeg har stadig 4 sensorer tilbage at implementere i C# kode. 
+
+## Tirsdag 18-09-2018
+
+Scrum blev afholdt.
+Dagen gik men ikke uden frustrationer over at min enhed ikke ville blive på netværket. hvilket med førte at jeg ikke kunne teste min kode og se om det virkede. Desuden er sunlight sensoren ikke ligeså nem at arbejde med. I2C temp og humid sensoren var svær at forstå samt det var første gang jeg arbejdede med I2C protocollen. koden jeg skriver er også nede på et niveau med embedded software. man skulle tro at når man arbejder med I2C så var det nogle af de samme ting man skulle igennem for at få hul igennem samt at få noget brugbar data tilbage, det er ikke tilfældet. 
+
+## Onsdag 19-09-2018
+
+Scrum blev afholdt.
+I2C sunlight sensor jeg stoppede med at arbjede med den sensor og hoppede over på en analog MQ2 gas sensor. Det gik umiddelbart smertefrit i forhold til I2C sensorerne. næste gang vil jeg højst sansynligt kigge en ekstra gang på typen af protocoller inden jeg giver mig i kast med sensorer.  
+    
+Jeg har de seneste dage haft store problemer med raspberry pi boardet da den ikke vil bliver på nettet. [link]()
+
+## Torsdag 20-09-2018
+
+ingen scrum møde
+Retrospektive
+sprintplanning
