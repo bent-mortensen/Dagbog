@@ -152,7 +152,7 @@ Dagen gik men ikke uden frustrationer over at min enhed ikke ville blive på net
 Scrum blev afholdt.
 I2C sunlight sensor jeg stoppede med at arbjede med den sensor og hoppede over på en analog MQ2 gas sensor. Det gik umiddelbart smertefrit i forhold til I2C sensorerne. næste gang vil jeg højst sansynligt kigge en ekstra gang på typen af protocoller inden jeg giver mig i kast med sensorer.  
     
-Jeg har de seneste dage haft store problemer med raspberry pi boardet da den ikke vil bliver på nettet. [link]()
+Jeg har de seneste dage haft store problemer med raspberry pi boardet da den ikke vil bliver på nettet. [link](https://github.com/bent-mortensen/Dagbog/blob/master/wifi.md)
 
 ## Torsdag 20-09-2018
 
