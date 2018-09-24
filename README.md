@@ -159,3 +159,11 @@ Jeg har de seneste dage haft store problemer med raspberry pi boardet da den ikk
 ingen scrum møde
 Retrospektive
 sprintplanning
+
+## Fredag 21-09-2018
+
+Månedsdag i kaastrup|andersen. Jeg fik lavet en del dokumentation på mit arbejde og fik implementeret piezo sensoren så der var lidt ekstra kød på, til når demo'en skal vises frem på novenco mødet.
+
+## Mandag 24-09-2018
+
+Thomas og Jannik er taget til KBH lufthavn for at holde møde omkring et muligt samarbejde vedr. IoT. Jeg vil så småt på begynde min praktik rapport udført i google docs.
