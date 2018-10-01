@@ -167,3 +167,33 @@ Månedsdag i kaastrup|andersen. Jeg fik lavet en del dokumentation på mit arbej
 ## Mandag 24-09-2018
 
 Thomas og Jannik er taget til KBH lufthavn for at holde møde omkring et muligt samarbejde vedr. IoT. Jeg vil så småt på begynde min praktik rapport udført i google docs.
+
+## Tirsdag 25-09-2018
+
+Image arbejde.
+Jeg har dokumenteret mine skridt på github.
+
+## Onsdag 26-09-2018
+
+Image arbejde.
+
+## Torsdag 27-09-2018
+
+Image arbejde.
+
+## Fredag 28-09-2018
+
+Image arbejde. 
+Jeg fandt ud af at mit program endeligt blev lagt på OEM udgaven af win10iot.
+
+
+Fik løbende opdateringer, fra IT-manden Kim, hele ugen igennem. Det kan desværre ikke lade sig gøre at få en fast ip til enheden, gennem det nuværende netværk. Alternativet vil være en 3G/4G mobil router til at skabe et netværk kun til enheden og den arbejdsstation man bruger.  
+k|a har tre netværk, guest, mobile og clients. clients har 100 ip'er og guest og mobile deler de sidste 100 ip'er, det vil sige at når huset er fuldt, eller parkeringspladsen er fyldt op, så bliver guest netværket meget ustabilt og raspberry pi enheden faldet hurtigt af. Hvilket gør det, at arbejde med enheden besværligt og en unødvendig langtrukken affære. Det er måske scrummasters opgave at rette op på sådan en fejl, men jeg burde have lavet mere opmærksomhed omkring mine frustrationer vedrørende fejlen. 
+Jeg gad godt vide hvor grænsen ligger for, hvornår sådan en fejl bliver til en scrummaster opgave, på den ene side kunne jeg godt arbejde på enheden, omend det skete langsomt, på den anden side, hvis det havde gået ud over leveringstidpunkter, havde det nok været en anden sag.
+
+
+## Mandag 01-10-2018
+
+Uploadet alt mit arbejde, på at lave en OEM udgave af win 10 iot, med det software jeg har lavet til raspberry pi, for at kunne aflæse sensorer og sende til skyen. 
+
+Side notat: Vi har 2 SD kort på kontoret, købt til raspberry pi. Chefen fik den ene, da han skulle bruge en til privaten. Det er ikke en kritik, bare en observation, at ens ressourcer kan forsvinde.
