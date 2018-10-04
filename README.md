@@ -197,3 +197,17 @@ Jeg gad godt vide hvor grænsen ligger for, hvornår sådan en fejl bliver til e
 Uploadet alt mit arbejde, på at lave en OEM udgave af win 10 iot, med det software jeg har lavet til raspberry pi, for at kunne aflæse sensorer og sende til skyen. 
 
 Side notat: Vi har 2 SD kort på kontoret, købt til raspberry pi. Chefen fik den ene, da han skulle bruge en til privaten. Det er ikke en kritik, bare en observation, at ens ressourcer kan forsvinde.
+
+## Tirsdag 02-10-2018
+
+Undersøgt to user-stories Thomas kom med mandag. Det var ikke ideén at de skulle implimenteres, men at jeg skulle undersøge mulighederne for en mulig løsning til de to user-stories 
+
+## Onsdag 03-10-2018
+
+Skrevet på min problemstilling og problemformulering samt lidt til praktik-rapporten
+
+## Torsdag 04-10-2018
+
+Skrevet på min problemstilling og problemformulering samt lidt til praktik-rapporten
+
+
