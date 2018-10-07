@@ -1,5 +1,76 @@
 # Dagbog
 
+5. Semester Praktik forløb
+Info-møde: introduktion til IoT og teamet.
+Jannick
+Thomas
+Torben
+
+ 
+Scrum
+Virksomheden har sendt alle på scrum kursus. De ønsker at være agile.
+Teamet arbejder i 3 ugers sprint.
+DOD
+Jeg har spurgt ind til DOD definition of done. De har valgt ikke at lave en på grund af de mange forskellige opgaver der indgår i deres digitaliseringsfase, som f.eks. marketing, salg og softwareudvikling. De føler at det ville være forsvært eller meningsløst at lave en dod der skal dække en artikel til en hjemmeside f.eks. fordi den måske vil ændre sig over tid, hvis de får nye ider osv.
+Dod revised
+Efter jeg har spurgt er der kommet lidt dod, som består i at en opgave bliver stillet og en lille dod bliver beskrevet i beskrivelsen til kortet på trello boardet.
+f.eks. på dod 
+
+Planning poker
+Teamet laver ikke tidestimering, da det ikke vil skabe værdi for dem. En anden grund til dette er at teamet er for lille til at vi kan opret holde det. Thomas siger at store teams, hvor man er afhængig af hinanden, der kan det være en fordel og nemmere at holde hinanden op på det, også fordi at andre teams kan være afhængig af ens arbejde og hvornår man forventer at blive færdige.  
+Software
+Softwaren vi arbejder med er en slags proof of concept, f.eks. skal vi kunne sende data fra en raspberry pi enhed med win10iot styresystem til en azure eventhub. Sådan lyder opgaven og det skal bare gå så hurtigt som muligt så vi kan komme i gang med det næste software opgave.
+Platform-framework-os-sprog
+Win10iot
+.net core
+.net framework
+Python
+C#
+Mødetider
+Arbejdstiden er sat til kl 8.00 til kl 16.00 med gratis frokost fra kl 12.00 til kl 12.30.
+Folk møder somregel omkring kl. 8.00 og går gerne hjem igen omkring kl 16:00, men til tider også før sådan ca. 15.30.
+ 
+Dagbog 
+
+Mandag 06-08-2018
+Kort introduktion til Kaastrup Andersen. Fik udleveret en bærbar uden nogen form for programmer så dagen gik med at installere diverse tools 
+Jeg bør lave en tools mappe med alle de værktøjer jeg skal bruge adk, sdk, VS, ftp client osv.
+Første opgave var at skulle få azure event hub til at virke med C# kode. 
+Der gik lidt tid før jeg fandt ud af hvad det hele gik ud på angående deres vision og teknologien de har valgt at bruge. Men det er i bund og grund en form for rabbitMQ message queing 
+Arbejdet med.
+•	
+
+Tirsdag 07-08-2018
+Flere tools blev installeret Quickstart tutorials blev benyttet. Jeg kan mærke at det er ikke svært at skrive kode, men det at skulle forstå en ny teknologi (azure eventhubs) og et nyt framework (.net core) trækker tænder ud.
+Arbejdet med.
+•	
+ 
+Onsdag 08-08-2018
+
+Arbejdet med.
+•	Afvikling af små programmer på raspberry pi3 med win10iot
+
+Torsdag 09-08-2018
+Afslutning af sprint bliver afholdt torsdag da teamet om fredagen har andre opgaver i virksomheden, hvor der bliver dannet squads til vidensdeling mellem kollegaerne.
+Jeg forventer at det vil tage en stor del af teamet tid, om fredagen.
+I dag har vi afholdt møder. Scrum relateret med retrospektive og sprint planning samt kort info omkring pitching møder til silkeborg kommune omkring en mulig software løsning til håndtering af hjemmepleje ruteplanlægning og håndtering af komunens biler.
+Endnu et møde omkring mine forventninger til samarbejdet. Hvad vil jeg gerne arbejde med? Er der noget jeg brander for at få fingrene i? Er det noget som jeg synes er for kedeligt og ikke gider?
+Jeg er egentlig tilfreds med at få en opgave og så løse den efter bedste evne. Svær eller let gør ikke noget.
+Jeg har også kigget videre på at afvikle små programmer på raspberry pi3 med win10iot.
+Fredag 10-08-2018
+Arbejdet med at løse en fejl uden nogen reel fejl meddelse... gik på weekend med en sejr.
+Fejlen bestod i at threading ”await” call metoden generede en fejl på et missing library. 
+
+Mandag 13-08-2018
+Har lavet dokumentation på mine opdagelser med at lave C# kode til windows 10 IoT. Dokumentation udført som README.md på github.
+
+
+
+
+
+
+
+
 ## husk at merge word dokument!!
 
 ## Tirsdag 14-08-2018
